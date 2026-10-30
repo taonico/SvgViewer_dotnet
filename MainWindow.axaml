@@ -6,7 +6,7 @@
 		xmlns:svg="clr-namespace:Avalonia.Svg.Skia;assembly=Svg.Controls.Skia.Avalonia"
         x:Class="SvgViewer.MainWindow"
         Title="SvgViewer"
-		DragDrop.AllowDrop="True">
+		DragDrop.AllowDrop="True" Width="450" Height="470">
 
 	    <StackPanel Margin="10">
 			<TextBlock Text="ファイルをドロップ"/>
